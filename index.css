@@ -2,4 +2,30 @@
     background-color: black;
     color: white;
 
+
+}
+
+.h1{
+    text-align: center;
+    font-size: 50px;
+    background-color: darkred;
+    padding: 12px;
+    margin: 12px 200px;
+}
+
+.headertext{
+    text-align: center;
+    margin: 12px 300px;
+    color: white;
+    background-color: darkred;
+    border-radius: 12px;
+    padding: 8px;
+    
+}
+
+.index{
+
+    margin: 12px 400px;  
+    font-size: 18px;
+
 }
